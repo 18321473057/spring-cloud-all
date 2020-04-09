@@ -17,4 +17,5 @@ security:
   user: #配置用户的账号信息
     name: ycs
     password: 1234
-#  配置中心服务端不用重启(不用webhook和bus-amqp),就可以获取最新数据
+
+abc: abc
