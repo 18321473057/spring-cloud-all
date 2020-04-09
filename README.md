@@ -1,9 +1,12 @@
 项目结构说明
 
--- spring-cloud-all 
-   父工程  springcloud的各个组件演示  聚合工程
+-- spring-cloud-all  父工程  springcloud的各个组件演示  聚合工程
+  
+-- spring-eureka-line  注册中心服务
+    
+-- spring-config-line  配置中心服务端
 
-
+-- spring-config-repository-line   配置中心仓库 
 
 
 
